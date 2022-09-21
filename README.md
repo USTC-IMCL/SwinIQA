@@ -1,6 +1,6 @@
 # SwinIQA
 SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment
-![image](https://github.com/USTC-IMCL/SwinIQA/fig/framework.png)
+![image](https://github.com/USTC-IMCL/SwinIQA/fig/SwinIQA.png)
 > [**SwinIQA**](https://arxiv.org/abs/2205.04264), Jianzhao Liu, Xin Li, Yanding Peng, Tao Yu, Zhibo Chen,        
 > Won **the first prize** in the competition of **5th Workshop and Challenge on Learned Image Compression (CLIC2022)** on the **Perceptual metrics Track**.
 
