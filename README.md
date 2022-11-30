@@ -11,9 +11,13 @@ Image compression has raised widespread concern recently due to its significant 
 
 ## Usages
 Before the testing, the file '/data/xx.csv' is required to be edited to storage the file list you want to test as:
-1) Reference, A, B
-or 2) Reference, A
-
+```
+1) Reference image, A, B when you want to  compare the quality of the coded images A and B of two different codecs.
+```
+or
+```
+2) Reference image, A when you want to measure the quality of one coded image A compared with original one. 
+ ```
 Here, A and B are the coded images with different codecs.
 
 When you require to compare the quality of two distorted images given the referenced image, you can run the test code with:
