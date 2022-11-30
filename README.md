@@ -45,3 +45,5 @@ Please cite us if this work is helpful to you.
   year={2022}
 }
 ```
+
+The model is implemented based on the work: [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
