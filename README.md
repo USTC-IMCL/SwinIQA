@@ -12,7 +12,8 @@ Image compression has raised widespread concern recently due to its significant 
 ## Usages
 Before the testing, the file '/data/xx.csv' is required to be edited to storage the file list you want to test as:
 1) Reference, A, B
-2) Reference, A
+or 2) Reference, A
+
 Here, A and B are the coded images with different codecs.
 
 When you require to compare the quality of two distorted images given the referenced image, you can run the test code with:
@@ -25,7 +26,7 @@ If you only require to get the quality of the distorted image compared with the 
 python clic_test.py --compare=False
 ```
 
-The pretrained weights are released [Model] (https://drive.google.com/file/d/1QtOnb4HjU-k_CCmpAACYNDrQZ0Me9y22/view?usp=sharing)
+The pretrained weights are released [Model](https://drive.google.com/file/d/1QtOnb4HjU-k_CCmpAACYNDrQZ0Me9y22/view?usp=sharing)
 
 The pretrained model requires to be moved to the folder "weights" 
 
